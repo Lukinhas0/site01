@@ -1,0 +1,13 @@
+h1#pri{
+    font: normal 30pt arial;
+    text-align: center;
+    color: rgb(19, 22, 230);
+}
+div#espaços{
+    text-align: center;
+}
+div#res{
+    margin-left: -70px;
+    font: normal 15pt arial;
+    margin-top: 20px;        
+}
